@@ -22,7 +22,7 @@ A personal portfolio website built with **HTML** and **CSS** showcasing my proje
 
 **Live Site**
 
-dominicc-code.github.io/portfolio
+[dominicc-code.github.io/portfolio](https://dominicc-code.github.io/portfolio/)
 
 **How to View Locally**
 
