@@ -1,4 +1,4 @@
-Portfolio Website
+**Portfolio Website
 
 A personal portfolio website built with HTML and CSS showcasing my projects, skills, and background.
 
@@ -27,3 +27,4 @@ Live Site
 dominicc-code.github.io/portfolio
 
 Created: August 2026
+**
