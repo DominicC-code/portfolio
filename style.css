@@ -1,0 +1,80 @@
+body{
+    background-color: hsl(0, 0%, 11%);
+    padding: 15px;
+    max-width: 900px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: tomato;
+    font-size: 26px;
+}
+#p2{
+    color: rgb(102, 225, 255);
+}
+#p3{
+    color: #59ff5f
+}
+#p4{
+    color: hsl(283, 100%, 64%);
+}
+#fnaf{
+    color:hsl(324, 75%, 57%)
+}
+#wthr{
+    color:aqua
+}
+#cash{
+    color:rgb(173, 206, 12)
+}
+#contacts{
+    color:rgb(12, 206, 125)
+}
+#pokedex{
+    color:paleturquoise
+}
+#intro{
+     color: rgb(229, 215, 16);
+}
+#about{
+    color:hsl(34, 100%, 50%); 
+    font-weight: bold; 
+    text-align: center;
+}
+#project{
+    color:hsl(121, 100%, 51%); 
+    font-weight: bold; 
+    text-align: center;
+}
+#outro{
+    color:hsl(308, 100%, 44%); 
+    font-weight: bold; 
+    text-align: center;
+}
+.projects-card{
+    border-bottom: 3px solid rgb(255, 0, 0);
+    border-top: 3px solid rgb(85, 0, 255);
+    border-left: 3px dotted rgb(89, 255, 0);
+    border-right: 3px dotted rgb(255, 0, 200);
+    border-radius: 10px;
+
+    margin-bottom: 20px;
+
+    box-shadow: 5px 5px 5px rgba(255, 0, 0, 0.5);; 
+    padding: 15px;
+}
+#intro a{
+    color: rgb(111, 179, 23);
+}
+#intro a:hover{
+    color: white;
+}
+.projects-card a{
+    color: hsl(308, 100%, 44%);
+}
+.projects-card a:hover{
+    color: white;
+}
+#outro a{
+    color:hsl(303, 66%, 32%)
+}
+#outro a:hover{
+    color:white
+}
